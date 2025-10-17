@@ -135,7 +135,7 @@ Stats table shows counts per category + a few example fonts.
 
 ## Notes 🤔
 
-* It’s kinda “best effort” — classification is purely based on font name, so it might get weird sometimes, or might not categorise fonts rightly.
+* It’s kinda “best effort” - classification depends upon font family metadata and heuristics, so it might get weird.
 * Works on macOS, Linux, Windows — anywhere `matplotlib.font_manager` can find fonts.
 
 ---
